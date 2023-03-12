@@ -1,0 +1,109 @@
+.style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(170, 170, 179);
+    margin: auto;
+    width:1250px;
+    height:650px;  
+}
+.box{
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(59, 54, 73);
+    width: 1250px;
+    height:80px;
+    padding-top: 25px;
+    text-align: center;
+}
+/* *{
+    box-sizing: border-box;
+} */
+.fa{
+    width: 1250px;
+   padding-left:20px;
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+     line-height: 2px;
+    word-spacing: 500px;
+    font-stretch: 40px;
+}
+
+.square{
+    margin-left: 200px;
+    height: 40px;
+    width: 1000px;
+  background-color: blueviolet;
+}
+.box1{
+    
+    height:500px;
+    width:400px;
+    padding-top: 20px;
+    padding-left: 40px;
+    background-color: rgb(170, 170, 179);
+}
+.box2{
+    background-color: rgb(89, 89, 106);
+    border-radius: 20px;
+     height:460px;
+    width:290px;
+   
+}
+.flex-container{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    
+}
+.flex-box{
+    
+float:left;
+margin-left: 300px;
+    width: 900px;
+    height: 500px;
+
+}
+.center{
+    letter-spacing: 1px;
+    margin-left: 180px;
+    background-color: rgb(89, 89, 106);
+    margin-top: 40px;
+    width: 60%;
+    height: 35px;
+    border: px solid rgb(6, 6, 6);
+    text-align: center;
+    margin-top: 2px;
+    border-radius: 5px;
+    color: rgb(151, 141, 141);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .flex-container1{
+        padding-left: 50px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+
+    
+    }
+    .flex-box1{
+        width: 200px;
+        height: 150px;
+        background-color: rgb(89, 89, 106);
+        margin: 40px;
+        margin-top: 60px;
+        border-radius: 10px;
+    }
+    .flex-box2{
+        width: 756px;
+        height: 160px;
+        background-color: rgb(89, 89, 106);
+        margin: 95px;
+        margin-top: 20px;
+        border-radius: 10px;
+    }
